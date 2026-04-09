@@ -328,10 +328,7 @@ python3 verification/verify_refactor.py --fuzz-count 10
 - 添加完整的内存检测和验证框架
 - 优化线程同步机制
 
-## 许可证
+## 备注
 
-[待添加]
+本项目源码基于[giorgospan/Radix-Hash-Join](https://github.com/giorgospan/Radix-Hash-Join)修改。
 
-## 联系方式
-
-[待添加]
