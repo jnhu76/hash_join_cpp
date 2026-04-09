@@ -1,0 +1,43 @@
+# Xmake generated files
+build/
+.xmake/
+.cache/
+compile_commands.json
+
+# Valgrind reports
+valgrind_reports/
+
+# Verification reports
+verification/reports/
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+
+# Profiling files
+gmon.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# Core dumps
+core
+core.*
